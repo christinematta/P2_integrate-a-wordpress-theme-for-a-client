@@ -1,0 +1,41 @@
+h2{
+	color:#1e73be
+}
+
+
+.col-lg-9 {
+    width: 100%;
+}
+/* changed the button border radius */
+.title-container .content .button {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 16px 40px;
+    text-transform: uppercase;
+    background: #3299dc;
+    font-family: 'opensans', sans-serif;
+    text-decoration: none;
+    border-radius: 15px 50px;
+    transition: all 0.3s ease 0;
+}
+
+/*  changed the color of the backgtound of contact form*/
+#panel-334-1-1-0> .panel-widget-style {
+    background-color: #efefef;
+    border: 1px solid #1e73be;
+    color: #1e73be;
+    padding: 10px 10px 10px 10px;
+}
+
+/*  changed the positon of submite button in contact form and the width of the button*/
+div.wpforms-container-full .wpforms-form button[type=submit] 
+{
+	 background-color: #1e73be;
+    border: 1px solid #ddd;
+    color: white;
+    font-size: 1em;
+    padding: 10px 15px;
+    margin-left: 38%;
+    width: 25%;
+}
