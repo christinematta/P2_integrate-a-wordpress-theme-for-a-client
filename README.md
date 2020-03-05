@@ -20,5 +20,5 @@ The agency is satisfied with your initial proposal but asks you how to add, edit
 - Editor accounts for two other agency employees
 
 ### [you can view the website from here!](http://dev-luxury-mountain-view-chalets.pantheonsite.io/contact-us/)
-### [For documentation press here]
+### [For documentation press here]( https://christinematta.github.io/P2_integrate-a-wordpress-theme-for-a-client/Configure access and documentation/Manage_Properties.pdf)
 
