@@ -2,7 +2,7 @@
 ### Step 1: Install WordPress and a theme
 #### Chalets and Caviar, an agency in Aspen, Colorado, has hired you to create their website. It has around 15 luxury chalets for sale and other chalets available to rent.
 
-####They want a "clear, uncluttered, design that exudes luxury." You'll have to offer them this result via a WordPress.
+#### They want a "clear, uncluttered, design that exudes luxury." You'll have to offer them this result via a WordPress.
 
 
 ### In the project, you'll add:
