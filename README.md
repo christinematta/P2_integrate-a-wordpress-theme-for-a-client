@@ -19,7 +19,7 @@ The agency is satisfied with your initial proposal but asks you how to add, edit
 - An administrator account for the developer (you!), if it does not already exist
 - Editor accounts for two other agency employees
 
-### [You can view the website from here!](http://dev-luxury-mountain-view-chalets.pantheonsite.io/contact-us/)
+### [You can view the website from here!](http://dev-luxury-mountain-view-chalets.pantheonsite.io/)
 ![Real estate agency](https://christinematta.github.io/P2_integrate-a-wordpress-theme-for-a-client/Real_estate.png)
 ### [For documentation press here]( https://christinematta.github.io/P2_integrate-a-wordpress-theme-for-a-client/Documentation/Manage_Properties.pdf)
 
